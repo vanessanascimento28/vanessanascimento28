@@ -1,16 +1,23 @@
-## Hi there 👋
+<img src = "giphy.gif" width = "280px" align= "right">
 
-<!--
-**vanessanascimento28/vanessanascimento28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ❤️Welcome! It's so great to have you here.
 
-Here are some ideas to get you started:
+💻I'm Vanessa, 29 years old and currently transitioning careers. I have a background in Business Administration, but recently I discovered a true passion for technology. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+😊I just completed a Front-End Development bootcamp at TripleTen, where I learned the fundamentals <br> of HTML, CSS, and JavaScript, and built several real-world projects.
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs&theme=light&perline=5" alt="My tech stack"/>
+</div>
+
+---
+
+- Now, I’m all in on Front-End! My amazing wife is a UX Designer 🎨💡, and together we’re building our own company focused on crafting beautiful, accessible, and user-friendly interfaces for apps 📱✨
+
+- I’m always curious, always learning — and super excited to connect and collaborate on awesome projects! 🤝💬
+
+---
+
+### 📲 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanessa-nascimento-da-silva-63728b142/)
