@@ -1,4 +1,4 @@
-<img src = "giphy.gif" width = "280px" align= "right">
+<img src = "Cat Coffee GIF by Meowingtons.gif" width = "280px" align= "right" style="border-radius: 50%;" />
 
 # ❤️Welcome! It's so great to have you here.
 
