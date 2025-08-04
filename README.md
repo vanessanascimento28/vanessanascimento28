@@ -1,10 +1,10 @@
-<img src = "Cat Coffee GIF by Meowingtons.gif" width = "280px" align= "right" style="border-radius: 50%;" />
+<img src = "CatMe.gif" width = "300px" align= "right" />
 
 # ❤️Welcome! It's so great to have you here.
 
 💻I'm Vanessa, 29 years old and currently transitioning careers. I have a background in Business Administration, but recently I discovered a true passion for technology. 
 
-😊I just completed a Front-End Development bootcamp at TripleTen, where I learned the fundamentals <br> of HTML, CSS, and JavaScript, and built several real-world projects.
+😊I just completed a Front-End Development bootcamp at TripleTen, where I learned the fundamentals of HTML, CSS, and JavaScript, and built several real-world projects.
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs&theme=light&perline=5" alt="My tech stack"/>
