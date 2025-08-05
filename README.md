@@ -52,7 +52,7 @@
 />
 <br/>
 <br/>
-- Now, I’m all in on Front-End! My amazing wife is a UX Designer 🎨💡, and together we’re building our own company focused on crafting beautiful, accessible, and user-friendly interfaces for apps 📱✨
+- Now, I’m all in on Front-End! I’m currently looking for opportunities where I can contribute to building beautiful, accessible, and user-friendly interfaces for apps 📱✨
 
 - I’m always curious, always learning — and super excited to connect and collaborate on awesome projects! 🤝💬
 
